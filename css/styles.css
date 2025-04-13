@@ -1,0 +1,81 @@
+.head{
+    color: #183b56;
+    font-size: 50px;
+    font-weight: bold;
+}
+.headphone-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover; 
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.laptop-card {
+   
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: w -100px;;
+}
+.head1{
+    color: white;
+    font-size: 70px;
+    margin-top: 90px;
+    font-weight: bold;
+}
+.para{
+    color: white;
+    font-size: 35px;
+    margin-top: 10px;
+}
+.button{
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    color: orange;
+    padding: 10px;
+    font-family: "Roboto";
+    margin-top: 15px;
+}
+.headphone-list {
+    list-style-type: none;
+    padding: 0;
+}
+.list-item{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.bg-specialoffers{
+    background-image:linear-gradient(to right ,#f49541,#dd5d97);
+    background-size: cover;
+    h
+}
+.para-heading{
+    color: #ad2167;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: "Roboto";
+
+}
+.para-offer{
+    color: white;
+    font-size:35px ;
+}
+.special-image{
+    height: 40vh;
+   
+}
+.item-image{
+    height: 50vh;
+    margin-left: 100px;
+    margin-top: 20px;
+  
+}
+
+
+.sbi-image{
+    height: 90px;
+    margin-top: 10px;
+    padding-left: 140px;
+}
